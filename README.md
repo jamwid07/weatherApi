@@ -12,7 +12,7 @@ apply migration in console
 
 `yii migrate --migrationPath=@app/modules/weather/migrations --interactive=0`
 
-add *openweathermap.org api token to `weatherApiToken` in _@app\config\params.php_
+add **openweathermap.org** api token to `weatherApiToken` in _@app\config\params.php_
 
 ## Console command
 
